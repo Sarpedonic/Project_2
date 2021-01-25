@@ -1,6 +1,6 @@
-## How Much Do League Dart Players Improve Over A Season?
+## How does time effect Cricket performance over a season?
 Target – Change in Average per turn (for 3 darts, game dependent)  
 Features – League, Date, Season Week, Game, Leg, Player, 3-Dart Average  
 Data – Scraped from dartconnect.com  
-Tools – BeautifulSoup, Numpy, Pandas, matplotlib, Seaborn, SKLearn.  
-Impacts - Time-specified performance benchmarks and prediction of competition performance.  
+Tools – BeautifulSoup, Selenium, Numpy, Pandas, matplotlib, Seaborn, SKLearn.  
+Impacts - Player-abstracted set performance predictions
